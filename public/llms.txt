@@ -1,0 +1,72 @@
+# פאפיס ישראל — Generative Engine Optimization Map
+
+> Pupis Israel is a professional dog breeding kennel specializing in small and popular breeds including Poodle, Shih Tzu, Dachshund, Cavalier King Charles Spaniel, and Maltipoo. The kennel presents itself as a warming, nurturing environment dedicated to raising healthy, well-socialized puppies. The brand name 'Pupis' has a playful, cute tone that appeals to dog lovers and families looking for a loving companion.
+
+---
+
+## Pages
+
+### בית
+https://-20adc4bb.zappy5.app
+מחפשים כלב בורדר קולי או שי טסו? בפאפיס ישראל תמצאו גורי כלבים גזעיים ובריאים שגדלו באהבה. בואו להכיר את החבר הכי טוב שלכם עוד היום!
+
+### תודה רבה - פאפיס ישראל
+https://-20adc4bb.zappy5.app/thank-you
+תודה רבה על פנייתך לפאפיס ישראל. הודעתך התקבלה בהצלחה ונחזור אליך בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-20adc4bb.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-20adc4bb.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-20adc4bb.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-20adc4bb.zappy5.app
+- Endpoint: https://-20adc4bb.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `breed` (text)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פאפיס ישראל
+Pupis Israel is a professional dog breeding kennel specializing in small and popular breeds including Poodle, Shih Tzu, Dachshund, Cavalier King Charles Spaniel, and Maltipoo. The kennel presents itself as a warming, nurturing environment dedicated to raising healthy, well-socialized puppies. The brand name 'Pupis' has a playful, cute tone that appeals to dog lovers and families looking for a loving companion.
+
+## Target Audience
+- אנשים המעוניינים לרכוש גורים מגזעים קטנים
+- חובבי גזעים קטנים
+- בעלי כלבים ראשונים
+- בעלי חיות מחמד עירוניים
+
+## Industry
+Dog Breeding
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-20adc4bb.zappy5.app/sitemap.xml
+- Robots: https://-20adc4bb.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-20adc4bb.zappy5.app/llms-full.txt
