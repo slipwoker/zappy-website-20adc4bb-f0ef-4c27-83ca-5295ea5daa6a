@@ -2,13 +2,13 @@
 
 Pupis Israel is a professional dog breeding kennel specializing in small and popular breeds including Poodle, Shih Tzu, Dachshund, Cavalier King Charles Spaniel, and Maltipoo. The kennel presents itself as a warming, nurturing environment dedicated to raising healthy, well-socialized puppies. The brand name 'Pupis' has a playful, cute tone that appeals to dog lovers and families looking for a loving companion.
 
-Source: https://-20adc4bb.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו את גזע הכלב המושלם למשפחה — פאפיס ישראל
 
-URL: https://-20adc4bb.zappy5.app
+URL: https://example.com
 Description: מחפשים כלב בורדר קולי או שי טסו? בפאפיס ישראל תמצאו גורי כלבים גזעיים ובריאים שגדלו באהבה. בואו להכיר את החבר הכי טוב שלכם עוד היום!
 
 גלו את גזע הכלב המושלם למשפחה — פאפיס ישראל
@@ -721,7 +721,7 @@ Description: מחפשים כלב בורדר קולי או שי טסו? בפאפ�
 
 ## מדיניות פרטיות
 
-URL: https://-20adc4bb.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -991,7 +991,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-20adc4bb.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1270,7 +1270,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-20adc4bb.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1568,7 +1568,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה רבה - פאפיס ישראל
 
-URL: https://-20adc4bb.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה רבה על פנייתך לפאפיס ישראל. הודעתך התקבלה בהצלחה ונחזור אליך בהקדם.
 
 תודה רבה - פאפיס ישראל
